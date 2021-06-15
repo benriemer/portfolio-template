@@ -23,4 +23,4 @@ This is a ReactJS based personal resume website template coded in ReactJS
 
 ## Credits
 
-###Coded and Styled with ❤ ❤
+### Coded and Styled with ❤ ❤
