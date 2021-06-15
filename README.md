@@ -11,7 +11,7 @@ This is a ReactJS based personal resume website template coded in ReactJS
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
 #### PROCEDURE:
 - Download the zip folder from Github and unzip it (git clone) <br/>
-  <a href='https://www.github.com'>Click here for the Github Repository</a>
+  <a href='https://github.com/benriemer/portfolio-template'>Click here for the Github Repository</a>
 - Open the folder in CodeEditor
 - Edit <code>src/portfolio.js</code> and add your personal details and projects
 - Open your terminal
